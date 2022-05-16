@@ -1,4 +1,4 @@
-# NetatmoTest
+# Api
 # recuperation de donnees 
 # utlisation de la methode fetch de js pour la requete vers l api
 # affichage de donnees recuperer 
